@@ -43,3 +43,8 @@
 * 密码加盐hash结果(可选)
 
 * 该session 30分钟内访问url记录(可选)
+
+## 资料
+
+* [清华](http://jst.tsinghuajournals.com/CN/rhhtml/20170611.htm#outline_anchor_12)
+* 这个repo下面的两个pdf
